@@ -11,13 +11,13 @@ This project implements a virtual mouse using hand gestures. You can control the
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/virtual-mouse.git
+   git clone https://github.com/varunkumar100804/Virtual_Mouse.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd virtual-mouse
+   cd Virtual_Mouse
    ```
 
 3. Install the required Python packages using pip:
@@ -28,10 +28,10 @@ This project implements a virtual mouse using hand gestures. You can control the
 
 ## Usage
 
-1. Run the `virtual_mouse.py` script:
+1. Run the `app.py` script:
 
    ```bash
-   python virtual_mouse.py
+   python app.py
    ```
 
 2. A webcam window will open, showing your hand movements and the virtual mouse cursor.
